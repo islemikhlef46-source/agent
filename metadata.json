@@ -1,0 +1,6 @@
+{
+  "name": "AI YouTube Channel Operating System",
+  "description": "The premium digital operating playbook and interactive workspace for building a profitable, automated YouTube channel from zero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
